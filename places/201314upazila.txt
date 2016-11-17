@@ -1,0 +1,644 @@
+Nilphamari Sadar,নীলফামারী পৌর
+Bagerhat Sadar,বাগেরহাট সদর
+Munshiganj Sadar,মুন্সীগঞ্জ সদর
+Chuadanga Sadar,চুয়াডাঙ্গা সদর 
+Moddhonogor Upazila,মধ্যনগর
+Jhenaidah Sadar,ঝিনাইদহ সদর 
+Cox’s bazar Sadar,কক্সবাজার শহর
+Jamalpur Sadar,জামালপুরের সদর
+Khulna Sadar,খুলনা সদর
+Kushtia Sadar,কুষ্টিয়া সদর
+Magura Sadar,মাগুরা সদর 
+Meherpur Sadar,মেহেরপুর সদর 
+Cox’s bazar Sadar,কক্সবাজার শহরতলি
+Narail Sadar,নড়াইল সদর
+Narail Sadar,নড়াইল পৌর
+Baksiganj Upazila,বকশিগঞ্জ
+Baksiganj Upazila,বকশীগঞ্জ
+Satkhira Sadar,সাতক্ষীরা সদর 
+Bandarban Sadar,বান্দরবান সদর
+Benapole Upazila,বেনাপোল
+Brahmanbaria Sadar,ব্রাহ্মণবাড়িয়া সদর 
+Chittagong Sadar,চট্টগ্রাম সদর
+Chauhali Upazila,চৌহালী
+Chandpur Sadar,চাঁদপুর সদর
+Comilla Sadar,কুমিল্লা সদর
+Coxbazar Sadar,কক্সবাজার সদর 
+Feni Sadar,ফেনী সদর
+Jessore Sadar,যশোর সদর
+Habiganj Sadar,হবিগঞ্জ সদর
+Khagrachhari Sadar,খাগড়াছড়ি সদর
+Lakshmipur Sadar,লক্ষ্মীপুর সদর
+Noakhali Sadar,নোয়াখালী সদর
+Rangamati Sadar,রাঙামাটি সদর
+Faridpur Sadar,ফরিদপুর সদর 
+Gazipur Sadar,গাজীপুর সদর
+Gopalganj Sadar,গোপালগঞ্জ সদর
+Jamalpur Sadar,জামালপুর সদর
+Kishoreganj Sadar,কিশোরগঞ্জ সদর
+Kishoreganj Upazila,কিশোরগঞ্জ উপজেলা
+Kazipur Upazila,কাজীপুর
+Manikganj Sadar,মানিকগঞ্জ সদর
+Munshiganj Sadar,মুন্সিগঞ্জ সদর 
+Mymensingh Sadar,ময়মনসিংহ সদর 
+Narayanganj Sadar,নারায়ণগঞ্জ সদর 
+Netrokona Sadar,নেত্রকোনা সদর
+Rajbari Sadar,রাজবাড়ী সদর 
+Shariatpur Sadar,শরীয়তপুর সদর
+Sherpur Sadar,শেরপুর সদর
+Sherpur Upazila,শেরপুর
+Tangail Sadar,টাঙ্গাইল সদর 
+Barguna Sadar,বরগুনা সদর 
+Barisal Sadar,বরিশাল সদর
+Bhola Sadar,ভোলা সদর
+Jhalokati Sadar,ঝালকাঠি সদর
+Patuakhali Sadar,পটুয়াখালী সদর
+Pirojpur Sadar,পিরোজপুর সদর
+Dinajpur Sadar,দিনাজপুর সদর
+Gaibandha Sadar,গাইবান্ধা সদর 
+Kurigram Sadar,কুড়িগ্রাম সদর 
+Lalmonirhat Sadar,লালমনিরহাট সদর
+Nilphamari Sadar,নীলফামারী সদর 
+Panchagarh Sadar,পঞ্চগড় সদর
+Rangpur Sadar,রংপুর সদর 
+Thakurgaon Sadar,ঠাকুরগাঁও সদর
+Bogra Sadar,বগুড়া সদর
+Joypurhat Sadar,জয়পুরহাট সদর
+Naogaon Sadar,নওগাঁ সদর
+Natore Sadar,নাটোর সদর
+Pabna Sadar,পাবনা সদর 
+Habiganj Sadar,হবিগঞ্জ সদর
+Moulvibazar Sadar,মৌলভীবাজার সদর
+Sunamganj Sadar,সুনামগঞ্জ সদর
+Sunamganj Sadar,সুনামগঞ্জ শহরতলি
+Madaripur Sadar,মাদারীপুর সদর
+Narsingdi Sadar,নরসিংদী সদর
+Rajshahi Sadar,রাজশাহী সদর
+Sirajganj Sadar,সিরাজগঞ্জ সদর
+Kachua Upazila,কচুয়া
+Chitalmari Upazila,চিতলমারী
+Chitalmari Upazila,চিতলমারি 
+Fakirhat Upazila,ফকিরহাট
+Mongla Upazila,মংলা
+Morrelganj Upazila,মোরেলগঞ্জ
+Mollahat Upazila,মোল্লাহাট
+Rampal Upazila,রামপাল
+Sarankhola Upazila,শরণখোলা
+Alamdanga Upazila,আলমডাঙ্গা 
+Jibannagar Upazila,জীবননগর 
+Damurhuda Upazila,দামুড়হুদা 
+Abhaynagar Upazila,অভয়নগর 
+Keshabpur Upazila,কেশবপুর 
+Chaugachha Upazila,চৌগাছা 
+Jhikargachha Upazila,ঝিকরগাছা 
+Jhikargachha Upazila,ঝীকরগাছা 
+Bagherpara Upazila,বাঘারপাড়া
+Bagherpara Upazila,বাঘেরপাড়া
+Manirampur Upazila,মনিরামপুর
+Manirampur Upazila,মণিরামপুর 
+Sharsha Upazila,শার্শা 
+Kaliganj Upazila,কালীগঞ্জ
+Kaliganj Upazila,কালিগঞ্জ
+Kotchandpur Upazila,কোটচাঁদপুর
+Kotchandpur Upazila,কোটচাদপুর
+Maheshpur Upazila,মহেশপুর 
+Shailkupa Upazila,শৈলকূপা 
+Harinakunda Upazila,হরিণাকুণ্ড
+Harinakunda Upazila,হরিণাকুন্ডু
+Koyra Upazila,কয়রা
+Dumuria Upazila,ডুমুরিয়া
+Terokhada Upazila,তেরখাদা
+Terokhada Upazila,তেরোখাদা
+Dacope Upazila,দাকোপ
+Dighalia Upazila,দিঘলিয়া
+Paikgachha Upazila,পাইকগাছা
+Phultala Upazila,ফুলতলা
+Batiaghata Upazila,বটিয়াঘাটা
+Batiaghata Upazila,বাটিয়াঘাটা
+Rupsa Upazila,রূপসা
+Kumarkhali Upazila,কুমারখালী
+Kumarkhali Upazila,কুমারখালি
+Khoksha Upazila,খোকসা 
+Daulatpur Upazila,দৌলতপুর
+Bheramara Upazila,ভেড়ামারা
+Bheramara Upazila,ভেড়ামারা
+Bheramara Upazila,ভেরামারা
+Mirpur Upazila,মিরপুর 
+Mohammadpur Upazila,মহম্মদপুর
+Mohammadpur Upazila,মোহাম্মদপুর
+Mohammadpur Upazila,মুহাম্মদপুর
+Shalikha Upazila,শালিখা 
+Sreepur Upazila,শ্রীপুর
+Mujibnagar Upazila,মুজিবনগর
+Gangni Upazila,গাংনী
+Lohagara Upazila,লোহাগড়া
+Lohagara Upazila,লোহাগাড়া
+Kalia Upazila,কালিয়া
+Kaliakair Upazila,কালিয়াকৈর
+Assasuni Upazila,আশাশুনি 
+Kalaroa Upazila,কলারোয়া
+Tala Upazila,তালা 
+Shailkupa Upazila,শৈলকুপা
+Debhata Upazila,দেবহাটা 
+Shyamnagar Upazila,শ্যামনগর 
+Alikadam Upazila,আলিকদম
+Alikadam Upazila,আলীকদম
+Thanchi Upazila,থানচি 
+Naikhongchhari Upazila,নাইক্ষ্যংছড়ি
+Naikhongchhari Upazila,নাইক্ষংছড়ি
+Ruma Upazila,রুমা
+Rowangchhari Upazila,রোয়াংছড়ি 
+Lama Upazila,লামা 
+Ashuganj Upazila,আশুগঞ্জ 
+Akhaura Upazila,আখাউড়া 
+Kasba Upazila,কসবা 
+Nabinagar Upazila,নবীনগর 
+Nasirnagar Upazila,নাসিরনগর 
+Bancharampur Upazila,বাঞ্ছারামপুর 
+Sarail Upazila,সরাইল 
+Bijoynagar Upazila,বিজয়নগর 
+Haziganj Upazila,হাজীগঞ্জ 
+Faridganj Upazila,ফরিদগঞ্জ 
+Matlab Uttar Upazila,মতলব উত্তর 
+Matlab Dakshin Upazila,মতলব দক্ষিণ 
+Haimchar Upazila,হাইমচর  
+Shahrasti Upazila,শাহরাস্তি
+Shahrasti Upazila,শাহরাস্তী
+Anwara Upazila,আনোয়ারা
+Banshkhali Upazila,বাঁশখালী
+Banshkhali Upazila,বাঁশখালি
+Boalkhali Upazila,বোয়ালখালী
+Boalkhali Upazila,বোয়ালখালি
+Boalmari Upazila,বোয়ালমারী
+Boalmari Upazila,বোয়ালমারি
+Chandanaish Upazila,চন্দনাইশ
+Fatikchhari Upazila,ফটিকছড়ি
+Hathazari Upazila,হাটহাজারী
+Mirsharai Upazila,মীরসরাই
+Mirsharai Upazila,মিরসরাই
+Patiya Upazila,পটিয়া
+Rangunia Upazila,রাঙ্গুনিয়া
+Raozan Upazila,রাউজান
+Sandwip Upazila,সন্দ্বীপ
+Satkania Upazila,সাতকানিয়া
+Sitakund Upazila,সীতাকুন্ড
+Barura Upazila,বরুরা
+Barura Upazila,বড়ুরা
+Chandina Upazila,চান্দিনা
+Daudkandi Upazila,দাউদকান্দি
+Daudkandi Upazila,দাউদকান্দী
+Laksam Upazila,লাকসাম
+Brahmanpara Upazila,ব্রাহ্মণপাড়া
+Burichang Upazila,বুড়িচং
+Chauddagram Upazila,চৌদ্দগ্রাম
+Debidwar Upazila,দেবীদ্বার
+Homna Upazila,হোমনা
+Muradnagar Upazila,মুরাদনগর
+Nangalkot Upazila,লাঙ্গলকোট
+Nangalkot Upazila,নাঙ্গলকোট
+Meghna Upazila,মেঘনা
+Titas Upazila,তিতাস 
+Manoharganj Upazila,মনোহরগঞ্জ
+Ukhia Upazila,উখিয়া 
+Kutubdia Upazila,কুতুবদিয়া 
+Chakaria Upazila,চকোরিয়া 
+Teknaf Upazila,টেকনাফ 
+Moheskhali Upazila,মহেশখালী
+Ramu Upazila,রামু
+Pekua Upazila,পেকুয়া
+Chagalnaiya,ছাগলনাইয়া 
+Sonagazi Upazila,সোনাগাজী 
+Fulgazi Upazila,ফুলগাজী 
+Parshuram Upazila,পরশুরাম
+Daganbhuiyan Upazila,দাগনভূঁইয়া
+Daganbhuiyan Upazila,দাগনভূঞা
+Dighinala Upazila,দীঘিনালা
+Dighinala Upazila,দিঘিনালা
+Panchhari Upazila,পানছড়ি 
+Mahalchhari Upazila,মহালছড়ি 
+Matiranga Upazila,মাটিরাঙ্গা 
+Manikchhari Upazila,মানিকছড়ি 
+Ramgarh Upazila,রামগড় 
+Lakshmichhari Upazila,লক্ষীছড়ি
+Lakshmichhari Upazila,লক্ষ্মীছড়ি
+Guimara Upazila,গুইমারা 
+Raipur Upazila,রায়পুর 
+Ramganj Upazila,রামগঞ্জ 
+Kamalnagar Upazila,কমলনগর 
+Ramgati Upazila,রামগতি
+Begumganj Upazila,বেগমগঞ্জ
+Chatkhil Upazila,চাটখিল
+Companiganj Upazila,কোম্পানীগঞ্জ
+Companiganj Upazila,কোম্পানিগঞ্জ
+Hatiya Upazila,হাতিয়া
+Senbag Upazila,সেনবাগ
+Subarnachar Upazila,সুবর্ণ চর
+Subarnachar Upazila,সুবর্ণচর
+Sonaimuri Upazila,সোনাইমুড়ি
+Sonaimuri Upazila,সোনাইমুরী
+Sonaimuri Upazila,সোনাইমুড়ী
+Kabirhat Upazila,কবিরহাট
+Kawkhali Upazila,কাউখালী
+Kawkhali Upazila,কাওখালী
+Kaukhali Upazila,কাউখালী
+Kaptai Upazila,কাপ্তাই
+Juraichhari Upazila,জুরাছড়ি
+Juraichhari Upazila,জুরাইছড়ি
+Juraichhari Upazila,জুড়াইছড়ি
+Juraichhari Upazila,জুড়াছড়ি
+Naniarchar Upazila,নানিয়াচর
+Barkal Upazila,বরকল
+Baghaichhari Upazila,বাঘাইছড়ি
+Belaichhari Upazila,বিলাইছড়ি
+Belaichhari Upazila,বেলাইছড়ি
+Rangamati,রাঙ্গামাটি
+Rajasthali Upazila,রাজস্থলী
+Rajasthali Upazila,রাজস্থলি
+Langadu Upazila,লংগদু
+Langadu Upazila,লাঙ্গাডু
+Boalmari Upazila,বোয়ালমারী
+Alfadanga Upazila,আলফাডাঙা
+Alfadanga Upazila,আলফাডাঙ্গা
+Madhukhali Upazila,মধুখালী
+Madhukhali Upazila,মধুখালি
+Bhanga Upazila,ভাঙ্গা 
+Nagarkanda Upazila,নগরকান্দা 
+Charbhadrasan Upazila,চর ভদ্রাসন
+Charbhadrasan Upazila,চরভদ্রাসন
+Sadarpur Upazila,সদরপুর 
+Saltha Upazila,সালথা
+Kaliakair Upazila,কালিয়াকৈর
+Kapasia Upazila,কাপাসিয়া 
+Muksudpur Upazila,মুকসুদপুর
+Kashiani Upazila,কাশিয়ানী
+Kotalipara Upazila,কোটালীপাড়া
+Kotalipara Upazila,কোটালিপাড়া
+Tungipara Upazila,টুঙ্গিপাড়া
+Mollahat Upazila,মোল্লারহাট
+Mollahat Upazila,মোল্লাহাট
+Chapai Nawabganj Sadar Upazila,চাঁপাইনবাবগঞ্জ সদর
+Chapai Nawabganj Sadar Upazila,চাঁপাইনবাবগঞ্জ পৌর
+Tungipara Upazila,টুঙ্গীপাড়া
+Dewanganj Upazila,দেওয়ানগঞ্জ
+Bakshiganj Upazila,বকশীগঞ্জ
+Islampur Upazila,ইসলামপুর
+Madarganj Upazila,মাদারগঞ্জ
+Melandaha Upazila,মেলান্দহ
+Sarishabari Upazila,সরিষাবাড়ি
+Sarishabari Upazila,সরিষাবাড়ী
+Austagram Upazila,অষ্টগ্রাম
+Itna Upazila,ইটনা
+Karimganj Upazila,করিমগঞ্জ
+Katiadi Upazila,কটিয়াদি
+Katiadi Upazila,কটিয়াদী
+Kuliarchar Upazila,কুলিয়ারচর
+Tarail Upazila,তাড়াইল
+Nikli Upazila,নিকলী
+Nikli Upazila,নিকলি
+Pakundia Upazila,পাকুন্দিয়া
+Bajitpur Upazila,বাজিতপুর
+Bhairab Upazila,ভৈরব
+Mithamain Upazila,মিঠামইন
+Mithamain Upazila,মিঠামাইন
+Hossainpur Upazila,হোসেনপুর
+Singair Upazila,সিঙ্গাইর
+Shibalaya Upazila,শিবালয় 
+Saturia Upazila,সাটুরিয়া
+Harirampur Upazila,হরিরামপুর
+Ghior Upazila,ঘিওর
+Ghior Upazila,ঘিওর
+Sreenagar Upazila,শ্রীনগর
+Sirajdikhan Upazila,সিরাজদিখান
+Sirajdikhan Upazila,সিরাজদীখান
+Lohajang,লৌহজং
+Lohajang,লোহাজং
+Tongibari Upazila,টঙ্গীবাড়ী
+Tongibari Upazila,টঙ্গীবাড়ি
+Gazaria Upazila,গজারিয়া
+Gazaria Upazila,গাজারিয়া
+Trishal Upazila,ত্রিশাল
+Gouripur Upazila,গৌরীপুর
+Muktagacha Upazila,মুক্তাগাছা
+Phulpur Upazila,ফুলপুর
+Haluaghat Upazila,হালুয়াঘাট
+Bhaluka Upazila,ভালুকা
+Fulbaria Upazila,ফুলবাড়িয়া
+Gafargaon Upazila,গফরগাঁও 
+Ishwarganj Upazila,ঈশ্বরগঞ্জ
+Nandail Upazila,নান্দাইল
+Dhobaura Upazila,ধোবাউড়া
+Dhobaura Upazila,ধোবাউরা
+Tarakanda Upazila,তারাকান্দা
+Bandar Upazila,বন্দর
+Bandar Upazila,বান্দার
+Araihazar Upazila,আড়াইহাজার
+Rupganj Upazila,রূপগঞ্জ
+Sonargaon Upazila,সোনারগাঁও
+Sonargaon Upazila,সোনারগাঁ
+Atpara Upazila,আটপাড়া
+Barhatta Upazila,বারহাট্টা
+Durgapur Upazila,দুর্গাপুর 
+Khaliajuri Upazila,খালিয়াজুড়ি
+Khaliajuri Upazila,খালিয়াজুড়ী
+Khaliajuri Upazila,খালিয়াজুরী
+Kalmakanda Upazila,কলমাকান্দা
+Kendua Upazila,কেন্দুয়া
+Madan Upazila,মদন 
+Mohanganj Upazila,মোহনগঞ্জ  
+Purbadhala Upazila,পূর্বধলা 
+Goalandaghat Upazila,গোয়ালন্দ 
+Pangsha Upazila,পাংশা 
+Baliakandi Upazila,বালিয়াকান্দি
+Baliakandi Upazil,বালিয়াকান্দী
+Kalukhali Upazila,কালুখালী
+Zajira Upazila,জাজিরা 
+Gosairhat Upazila,গোসাইরহাট 
+Damudya Upazila,ডামুড্যা
+Damudya Upazila,দামুদিয়া
+Bhedarganj Upazila,ভেদরগঞ্জ
+Bhedarganj Upazila,ভ্যাদরগঞ্জ
+Naria Upazila,নড়িয়া
+Naria Upazila,নাড়িয়া
+Sakhipur Upazila,সখিপুর
+Jhenaigati Upazila,ঝিনাইগতি
+Nakla Upazila,নকলা 
+Nalitabari Upazila,নালিতাবাড়ি
+Nalitabari Upazila,নালিতাবাড়ী
+Sreebardi Upazila,শ্রীবরদি
+Sreebardi Upazila,শ্রীবরদী
+Kalihati Upazila,কালিহাতি
+Kalihati Upazila,কালিহাতি
+Kalihati Upazila,কালিহাতী 
+Ghatail Upazila,ঘাটাইল 
+Basail Upazila,বাসাইল
+Basail Upazila,বসাইল 
+Gopalpur Upazila,গোপালপুর
+Mirzapur Upazila,মির্জাপুর 
+Bhuapur Upazila,ভুয়াপুর 
+Nagarpur Upazila,নাগরপুর
+Nagarpur Upazila,নগরপুর
+Madhupur Upazila,মধুপুর
+Delduar Upazila,দেলদুয়ার 
+Dhanbari Upazila,ধনবাড়ী
+Dhanbari Upazila,ধনবাড়ি
+Amtali Upazila,আমতলী
+Amtali Upazila,আমতলি
+Patharghata Upazila,পাথরঘাটা
+Betagi Upazila,বেতাগি
+Betagi Upazila,বেতাগী
+Bamna Upazila,বামনা
+Taltali Upazila,তালতলী
+Agailjhara Upazila,আগৈলঝারা 
+Agailjhara Upazila,আগাইলঝরা
+Agailjhara Upazila,আগাইলঝড়া
+Agailjhara Upazila,আগৈলঝাড়া
+Bakerganj Upazila,বাকেরগঞ্জ 
+Babuganj Upazila,বাবুগঞ্জ 
+Banaripara Upazila,বানারিপাড়া 
+Banaripara Upazila,বানারীপাড়া
+Gaurnadi Upazila,গৌরনদী 
+Hizla Upazila,হিজলা 
+Mehendiganj Upazila,মেহেন্দিগঞ্জ 
+Muladi Upazila,মুলাদি 
+Wazirpur Upazila,উজিরপুর
+Wazirpur Upazila,ওয়াজিরপুর
+Charfassion Upazila,চরফ্যাশন
+Tazumuddin Upazila,তজমুদ্দিন
+Tazumuddin Upazila,তজুমুদ্দিন
+Tazumuddin Upazila,তজুমদ্দিন
+Daulatkhan Upazila,দৌলতখান
+Borhanuddin Upazila,বোরহানউদ্দিন
+Borhanuddin Upazila,বুরহানউদ্দিন
+Manpura Upazila,মনপুরা
+Lalmohan Upazila,লালমোহন
+Kathalia Upazila,কাঁঠালিয়া
+Kathalia Upazila,কাঠালিয়া
+Nalchity Upazila,নলছিটি
+Nalchity Upazila,নালচিতি
+Rajapur Upazila,রাজাপুর
+Bauphal Upazila,বাউফল
+Dashmina Upazila,দশমিনা
+Galachipa Upazila,গলাচিপা
+Kalapara Upazila,কলাপাড়া
+Dumki Upazila,দুমকি
+Dumki Upazila,ডুমকি
+Rangabali Upazila,রাঙ্গাবালি
+Rangabali Upazila,রাঙ্গাবালী
+Nazirpur Upazila,নাজিরপুর
+Nesarabad Upazila,নেছারাবাদ
+Nesarabad Upazila,নেসারাবাদ
+Swarupkati Upazila,স্বরূপকাঠি
+Bhandaria Upazila,ভাণ্ডারিয়া
+Mathbaria Upazila,মঠবাড়িয়া 
+Mathbaria Upazila,মাঠবাড়িয়া
+Zianagar Upazila,জিয়ানগর 
+Birampur Upazila,বিরামপুর 
+Birganj Upazila,বীরগঞ্জ 
+Bochaganj Upazila,বোচাগঞ্জ 
+Phulbari Upazila,ফুলবাড়ী 
+Phulbari Upazila,ফুলবাড়ি
+Chirirbandar Upazila,চিরিরবন্দর
+Ghoraghat Upazila,ঘোড়াঘাট 
+Hakimpur Upazila,হাকিমপুর 
+Kaharole Upazila,কাহারোল
+Khansama Upazila,খানসামা  
+Nawabganj Upazila,নবাবগঞ্জ 
+Parbatipur Upazila,পার্বতীপুর 
+Birol Upazila,বিরল
+Birol Upazila,বিড়ল  
+Fulchhari Upazila,ফুলছড়ি 
+Gobindaganj Upazila,গোবিন্দগঞ্জ 
+Palashbari Upazila,পলাশবাড়ী 
+Palashbari Upazila,পলাশবাড়ি
+Sadullapur Upazila,সাদুল্লাপুর
+Sadullapur Upazila,সাদুল্যাপুর
+Saghata Upazila,সাঘাটা  
+Sundarganj Upazila,সুন্দরগঞ্জ 
+Ulipur Upazila,উলিপুর 
+Ulipur Upazila,অলিপুর
+Char Rajibpur Upazila,চর রাজীবপুর
+Char Rajibpur Upazila,রাজীবপুর
+Chilmari Upazila,চিলমারী 
+Chilmari Upazila,চিলমারি
+Nageshwari Upazila,নাগেশ্বরী
+Nageshwari Upazila,নাগেশ্বরী 
+Bhuruingamari Upazila,ভুরুঙ্গামারি
+Bhuruingamari Upazila,ভুরুঙ্গামারী 
+Rajarhat Upazila,রাজারহাট 
+Rowmari Upazila,রৌমারী 
+Rowmari Upazila,রৌমারি
+Patgram Upazila,পাটগ্রাম 
+Aditmari Upazila,আদিতমারী
+Aditmari Upazila,অদিতমারী  
+Hatibandha Upazila,হাতিবান্ধা
+Hatibandha Upazila,হাতীবান্ধা
+Domar Upazila,ডোমার 
+Dimla Upazila,ডিমলা 
+Jaldhaka Upazila,জলঢাকা 
+Saidpur Upazila,সৈয়দপুর 
+Debiganj Upazila,দেবীগঞ্জ
+Debiganj Upazila,দেবিগঞ্জ 
+Tetulia Upazila,তেতুলিয়া
+Tetulia Upazila,তেঁতুলিয়া
+Atwari Upazila,আটোয়ারী 
+Atwari Upazila,আটোয়ারি
+Boda Upazila,বোদা
+Badarganj Upazila,বদরগঞ্জ
+Gangachara Upazila,গঙ্গাছড়া
+Kaunia Upazila,কাউনিয়া
+Mithapukur Upazila,মিঠাপুকুর
+Pirgachha Upazila,,পীরগাছা
+Pirganj Upazila,পীরগঞ্জ
+Taraganj Upazila,তারাগঞ্জ
+Baliadangi Upazila,বালিয়াডাঙ্গী 
+Baliadangi Upazila,বালিয়াডাঙ্গি
+Ranisankail Upazila,রানীশংকৈল
+Ranisankail Upazila,রাণীশংকৈল
+Ranisankail Upazila,রাণীশংকৈল
+Haripur Upazila,হরিপুর
+Sonatala Upazila,সোনাতলা 
+Adamdighi Upazila,আদমদীঘি
+Adamdighi Upazila,আদমদিঘী
+Dhunat Upazila,ধুনট
+Dhupchanchia Upazila,ধুপচাঁচিয়া 
+Dhupchanchia Upazila,ধুপচাচিয়া
+Gabtali Upazila,গাবতলী
+Gabtali Upazila,গাবতলি 
+Gabtali Upazila,গাবতলী
+Kahaloo Upazila,কাহালু
+Nandigram Upazila,নন্দীগ্রাম
+Nandigram Upazila,নন্দিগ্রাম
+Sariakandi Upazila,সারিয়াকান্দি
+Jhenaigati Upazila,ঝিনাইগাতী
+Shibganj Upazila,শিবগঞ্জ
+Shajahanpur Upazila,সাজাহানপুর 
+Shajahanpur Upazila,শাজাহানপুর
+Shajahanpur Upazila,শাহজাহানপুর
+Akkelpur Upazila,আক্কেলপুর
+Kalai Upazila,কালাই 
+Khetlal Upazila,খেতলাল
+Khetlal Upazila,ক্ষেতলাল
+Panchbibi Upazila,পাঁচবিবি 
+Patnitala Upazila,পত্নীতলা 
+Dhamoirhat Upazila,ধামুরহাট
+Dhamoirhat Upazila,ধামইরহাট
+Mohadevpur Upazila,মহাদেবপুর 
+Porsha Upazila,পরশা 
+Porsha Upazila,পোরশা
+Sapahar Upazila,সাপাহার
+Badalgachhi Upazila,বদলগাছি
+Badalgachhi Upazila,বদলগাছী
+Manda Upazila,মান্দা 
+Niamatpur Upazila,নিয়ামতপুর
+Atrai Upazila,আত্রাই
+Raninagar Upazila,রানীনগর
+Raninagar Upazila,রাণীনগর 
+Bagatipara Upazila,বাগাতিপাড়া
+Baraigram Upazila,বড়াইগ্রাম 
+Gurudaspur Upazila,গুরুদাসপুর
+Gurudaspur Upazila,গুরুদাশপুর
+Lalpur Upazila,লালপুর
+Singra Upazila,সিংড়া
+Naldanga Upazila,নলডাঙ্গা 
+Gomastapur Upazila,গোমস্তাপুর 
+Nachole Upazila,নাচোল 
+Bholahat Upazila,ভোলাহাট 
+Atgharia Upazila,আটঘরিয়া 
+Ishwardi Upazila,ঈশ্বরদী
+Ishwardi Upazila,ঈশ্বরদি
+Chatmohar Upazila,চাটমোহর 
+Faridpur Upazila,ফরিদপুর
+Bera Upazila,বেড়া
+Bhangura Upazila,ভাঙ্গুরা
+Bhangura Upazila,ভাঙ্গুড়া
+Sujanagar Upazila,সুজানগর
+Santhia Upazila,সাঁথিয়া
+Ajmiriganj Upazila,আজমিরিগঞ্জ
+Ajmiriganj Upazila,আজমেরীগঞ্জ
+Ajmiriganj Upazila,আজমিরীগঞ্জ
+Baniachong Upazila,বানিয়াচং
+Bahubal Upazila,বাহুবল
+Chunarughat Upazila,চুনারুঘাট  
+Lakhai Upazila,লাখাই
+Madhabpur Upazila,মাধবপুর
+Nabiganj Upazila,নবীগঞ্জ
+Barlekha Upazila,বড়লেখা
+Kulaura Upazila,কুলাউড়া
+Rajnagar Upazila,রাজনগর
+Kamalganj Upazila,কমলগঞ্জ
+Sreemangal Upazila,শ্রীমঙ্গল
+Juri Upazila,জুড়ী
+Bishwamvarpur Upazila,বিশ্বম্ভরপুর 
+Chhatak Upazila,ছাতক 
+Derai Upazila,দিরাই
+Dharmapasha Upazila,ধরমপাশা
+Dharmapasha Upazila,ধর্মপাশা
+Dowarabazar Upazila,দোয়ারাবাজার 
+Dowarabazar Upazila,দেয়ারাবাজার
+Dowarabazar Upazila,দুয়ারা বাজার
+Jagannathpur Upazila,জগন্নাথপুর
+Jamalganj Upazila,জামালগঞ্জ
+Tahirpur Upazila,তাহিরপুর
+Sullah Upazila,শাল্লা
+Dakshin Sunamganj Upazila,দক্ষিণ সুনামগঞ্জ
+Balaganj Upazila,বালাগঞ্জ
+Beanibazar Upazila,বিয়ানীবাজার 
+Bishwanath Upazila,বিশ্বনাথ
+Companiganj Upazila,কোম্পানীগঞ্জ
+Fenchuganj Upazila,ফেঞ্চুগঞ্জ
+Golapganj Upazila,গোলাপগঞ্জ
+Gowainghat Upazila,গোয়াইনঘাট
+Jaintiapur Upazila,জৈন্তাপুর
+Kanaighat Upazila,কানাইঘাট
+Sylhet Sadar,সিলেট সদর
+Zakiganj Upazila,জকিগঞ্জ
+Dakshin Surma Upazila,দক্ষিণ সুরমা
+Dhamrai Upazila,ধামরাই
+Dohar Upazila,দোহার
+Keraniganj Upazila,কেরানীগঞ্জ
+Keraniganj Upazila,কেরাণীগঞ্জ
+Nawabganj Upazila,নবাবগঞ্জ
+Savar Upazila,সাভার 
+Rajoir Upazila,রাজৈর
+Kalkini Upazila,কালকিনি 
+Shibchar Upazila,শিবচর 
+Belabo Upazila,বেলাবো 
+Belabo Upazila,বেলাব
+Monohardi Upazila,মনোহরদী 
+Palash Upazila,পলাশ 
+Raipura Upazila,রায়পুরা 
+Shibpur Upazila,শিবপুর 
+Bagha Upazila,বাঘা 
+Bagmara Upazila,বাগমারা 
+Charghat Upazila,চারঘাট 
+Charghat Upazila,চরঘাট 
+Durgapur Upazila,দূর্গাপুর
+Godagari Upazila,গোদাগাড়ী 
+Mohanpur Upazila,মোহনপুর
+Paba Upazila,পবা
+Paba Upazila,পাবা
+Puthia Upazila,পুঠিয়া
+Tanore Upazila,তানোর
+Belkuchi Upazila,বেলকুচি 
+Chauhali Upazila,চৌহালি
+Kazipur Upazila,কাজীপুর 
+Raiganj Upazila,রায়গঞ্জ 
+Shahjadpur Upazila,শাহজাদপুর 
+Tarash Upazila,তাড়াশ
+Ullapara Upazila,উল্লাপাড়া
+Banaripara Upazila,বানাড়িপারা
+Mehendiganj Upazila,মেহেদিগঞ্জ 
+Charfassion Upazila,চর ফ্যাশন
+Tazumuddin Upazila,তাজুমুদ্দিন
+Mirzaganj Upazila,মির্জাগঞ্জ 
+Dumki Upazila,ডুমকি
+Bhandaria Upazila,ভ্যান্ডারিয়া
+Bhandaria Upazila,ভান্ডারিয়া
+Rowangchhari Upazila,রউয়াংছড়ি 
+Shahbazpur Town,শাহবাজপুর
+Akhaura Upazila,আখাউরা
+Bhurungamari Upazila,ভূরুঙ্গামারী
+Lohagara Upazila,লোহাগারা
+Lohagara Upazila,লোহাগাড়া 
+Sitakund Upazila,সীতাকুণ্ড
+Chakaria Upazila,চকরিয়া
