@@ -1,8 +1,13 @@
+# initial database creation and populating places tables
 import pymysql
+import dbWorks.ExecuteSqlFile as fileexec
+
+fileexec.execute_scripts_from_file('database.sql')
 
 conn = pymysql.connect(host='localhost', user='root', passwd='', db='places', charset='utf8', autocommit=True)
 
 cur = conn.cursor()
+
 
 # # cur.execute("select * from `district`")
 # # # print(cur.description)

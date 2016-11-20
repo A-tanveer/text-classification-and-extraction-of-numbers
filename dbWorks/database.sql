@@ -1,6 +1,6 @@
-CREATE DATABASE places
-  DEFAULT CHARACTER SET utf8
-  DEFAULT COLLATE utf8_general_ci;
+-- CREATE DATABASE places
+--   DEFAULT CHARACTER SET utf8
+--   DEFAULT COLLATE utf8_general_ci;
 
 SET FOREIGN_KEY_CHECKS = 0;
   --
@@ -55,17 +55,17 @@ CREATE TABLE `upazilla` (
 
 DROP TABLE IF EXISTS `processed_news`;
 CREATE TABLE IF NOT EXISTS `processed_news` (
-  `id` int(10) UNSIGNED NOT NULL,
+  `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT,
   `content` mediumtext,
   `domain` varchar(541) DEFAULT NULL,
   `url` varchar(452) DEFAULT NULL,
   `title` varchar(223) DEFAULT NULL,
   `news_date` date DEFAULT NULL,
   `original_date` date DEFAULT NULL,
+  `casualty_count` int(10) NOT NULL,
   `upazilla_id_str` varchar(50) DEFAULT NULL,
   `match_percent` int(10) DEFAULT 0,
   `is_unique` tinyint(1) DEFAULT '1',
   `copy_of` int(10) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
