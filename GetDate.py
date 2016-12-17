@@ -2,11 +2,8 @@ import re
 import datetime
 
 
-# just found out following three methods can be done in just one method if
-# i include an argument variable. what a fool i am.
-# OK now its done :)
-# extract date from url if url is in the third line.
-# x = url line no (starts from zero) and y = date separation character 1 for / and 2 for -
+# extract date from url.
+# x = line no (starts from zero) and y = date separation character 1 for '/' and 2 for '-'
 def get_date(x, y):
     f = open('content.txt', encoding="utf8")
     text = f.readlines()
@@ -38,7 +35,7 @@ def get_date2():
 
 
 # extract date from url if url is in the third line date separated by - #not needed anymore
-def get_date_p_a():
+def get_date_bn():
     f = open('content.txt', encoding="utf8")
     text = f.readlines()
     x = 0
@@ -52,7 +49,8 @@ def get_date_p_a():
     return date
 
 
-# extract date from text. if date is in bangla numeric form and separated by - #can be used
+# extract date from text. if date is in bangla numeric form and separated by '-' #can be used
+# just a few line needed to make it useful like 1st method. hint - arguments
 def get_date3():
     f = open('content.txt', encoding="utf8")
     text = f.readlines()
@@ -73,7 +71,7 @@ def get_date3():
     return date
 
 
-# extract date from bangla text. if date is like জানুয়ারি ০৫, ২০১৫ #hardest one
+# extract date from bangla text. if date is like জানুয়ারি ০৫, ২০১৫ #hardest one, took days to figure out.
 def get_date_bangla():
 
     months = [' ', 'জানুয়ারি', 'ফেব্রুয়ারি', 'মার্চ', 'এপ্রিল', 'মে', 'জুন', 'জুলাই', 'আগস্ট', 'সেপ্টেম্বর',
@@ -82,10 +80,11 @@ def get_date_bangla():
     text = f.readlines()
     f.close()
 
+    # translate numbers in the date text
     data = repr(text[5])
     bang = '০১২৩৪৫৬৭৮৯'
     eng = '0123456789'
-    date_data = data.translate({ord(x): y for (x, y) in zip(bang, eng)})
+    date_data = data.translate({ord(x): y for (x, y) in zip(bang, eng)})  # stackoverflow rocks ;)
 
     f = open('temp', 'w', encoding='utf8')
     f.write(date_data)
@@ -109,6 +108,7 @@ def get_date_bangla():
     return date
 
 
+# name says it all......
 def get_date_of_incident(date):
     f = open('content.txt', encoding='utf8')
     lines = f.readlines()

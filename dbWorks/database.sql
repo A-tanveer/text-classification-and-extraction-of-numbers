@@ -34,7 +34,7 @@ SET FOREIGN_KEY_CHECKS = 0;
 
 
 --
--- Definition of table `Upazilla`
+-- Definition of table `upazilla`
 --
 
 DROP TABLE IF EXISTS `upazilla`;
@@ -58,12 +58,13 @@ CREATE TABLE IF NOT EXISTS `processed_news` (
   `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT,
   `content` mediumtext,
   `domain` varchar(541) DEFAULT NULL,
-  `url` varchar(452) DEFAULT NULL,
+  `url` varchar(1000) DEFAULT NULL,
   `title` varchar(223) DEFAULT NULL,
   `news_date` date DEFAULT NULL,
   `original_date` date DEFAULT NULL,
-  `casualty_count` int(10) NOT NULL,
-  `upazilla_id_str` varchar(50) DEFAULT NULL,
+  `casualty_count` int(10) DEFAULT 0 NOT NULL ,
+  `injury_count` int(10) DEFAULT 0 NOT NULL ,
+  `upazilla_id_str` varchar(100) DEFAULT NULL,
   `match_percent` int(10) DEFAULT 0,
   `is_unique` tinyint(1) DEFAULT '1',
   `copy_of` int(10) DEFAULT NULL,

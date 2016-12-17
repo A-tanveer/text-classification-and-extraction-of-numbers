@@ -139,3 +139,23 @@ import pymysql
 #         # print(sql, str_for_compare)
 #
 # mark_percent_unique()
+import pymysql
+
+conn = pymysql.connect(host='localhost', user='root', passwd='', db='places', charset='utf8', autocommit=True)
+cur = conn.cursor()
+
+sql = "SELECT id, upazilla_id_str, casualty_count, injury_count FROM `processed_news` WHERE 1"
+cur.execute(sql)
+data_now = cur.fetchall()
+
+sql = "SELECT COUNT(*) FROM `processed_news`"
+cur.execute(sql)
+y = cur.fetchone()
+
+for i in range(0, y[0]):
+    # compare every news data within the given two days
+    every = data_now[i]
+    print(every)
+
+                # print(every)
+

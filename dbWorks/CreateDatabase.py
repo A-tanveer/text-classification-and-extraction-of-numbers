@@ -2,7 +2,7 @@
 import pymysql
 import dbWorks.ExecuteSqlFile as fileexec
 
-fileexec.execute_scripts_from_file('database.sql')
+# fileexec.execute_scripts_from_file('database.sql')
 
 conn = pymysql.connect(host='localhost', user='root', passwd='', db='places', charset='utf8', autocommit=True)
 
@@ -18,8 +18,9 @@ cur.execute("SET FOREIGN_KEY_CHECKS = 0;")
 cur.execute("TRUNCATE `district`;")
 cur.execute("ALTER TABLE `district` AUTO_INCREMENT = 1;")
 
-f = open('places/201314zilla.txt', encoding='utf8')
+f = open('../places/201314zilla.txt', encoding='utf8')
 lines = f.readlines()
+# print(lines)
 f.close()
 a = 0
 for line in lines:
@@ -43,7 +44,7 @@ for line in lines:
     cur.execute(sql)
 
 
-f = open('places/201314upazilawithzila.txt', encoding='utf8')
+f = open('../places/201314upazilawithzila.txt', encoding='utf8')
 lines = f.readlines()
 f.close()
 a = 0
