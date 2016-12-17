@@ -4,5 +4,5 @@ Finding numbers of casualties and injuries caused by thunderstorm from local new
 
 The developed algorithm has
 
-  -accuracy of 91% in finding desired numbe
-  -accuracy of 96% in marking duplicate news
+  - accuracy of 91% in finding desired number  
+  - accuracy of 96% in marking duplicate news
