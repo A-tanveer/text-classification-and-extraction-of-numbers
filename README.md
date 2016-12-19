@@ -6,3 +6,8 @@ The developed algorithm has
 
   - accuracy of 91% in finding desired number  
   - accuracy of 96% in marking duplicate news
+
+
+
+
+  - Academic work, please do not copy
